@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card component renders Card when supplied with an items prop 1`] = `
+<div
+  className="Card"
+>
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    delete
+  </button>
+  <h3 />
+  <p />
+</div>
+`;
+
+exports[`Card component renders markup as expected without props 1`] = `
+<div
+  className="Card"
+>
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    delete
+  </button>
+  <h3 />
+  <p />
+</div>
+`;
